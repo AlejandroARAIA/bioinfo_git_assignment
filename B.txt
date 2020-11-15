@@ -1,1 +1,2 @@
 B file modification by Paul
+Alice changes on file B
